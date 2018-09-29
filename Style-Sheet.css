@@ -13,4 +13,6 @@ h1 {
 .stuff {
   float right;
 }
-h1 {background-image: url ("https://github.com/NewmanXing/portfolio/blob/gh-pages/God%20King%20Darius.jpg?raw=true");
+h1 {
+  background-image: url ("https://github.com/NewmanXing/portfolio/blob/gh-pages/God%20King%20Darius.jpg?raw=true");
+}
